@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
+
 **schullegerhard/schullegerhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get\ you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<<<<<<< HEAD
 -->
 Temporary commit content 47
 Temporary commit content 49
@@ -33,3 +34,6 @@ Temporary commit content 261
 Temporary commit content 270
 Temporary commit content 279
 Temporary commit content 287
+=======
+
+>>>>>>> 4a333990f5ff10b6a9e74c34d7a76dd8a4f3de0c
