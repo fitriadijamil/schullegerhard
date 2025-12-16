@@ -70,13 +70,3 @@ Here are some projects I work on:
 🤖 AI Chat Support Bot – LLM-driven customer support
 
 👁 Computer Vision Toolkit – Real-time detection & recognition models
-
-📈 GitHub Stats
-
-🌐 Let’s Connect
-
-💼 Portfolio: coming soon
-📩 Email: youremail@example.com
-
-🐦 Twitter: @yourhandle
-💼 LinkedIn: your profile link
