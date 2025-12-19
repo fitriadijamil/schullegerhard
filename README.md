@@ -9,7 +9,7 @@ I specialize in developing **Frontend, Backend, SmartContract, DEXs,  DApps, Def
 My core skills include **TypeScript, Rust, Solidity, Go, Python, Java, SQL and C++**, and I have extensive experience working across multiple blockchain ecosystems, including **Ethereum, Solana, Polkadot, Stellar, Cosmos, Binance, Polygon, Aptos, Sui, Ton, Tron and more**.
 
 ```javascript
-const kavorix = {
+const Schullegerhard  = {
     programLanguage: {
         highLevel: ["Typescript", "Rust", "Solidity", "Go", "Python", "C++", "Java", "SQL"],
     },
